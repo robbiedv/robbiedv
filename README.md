@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src= "[Imgur](https://i.imgur.com/oNXHwOX.gifv)">
+ <a href = "[Imgur](https://i.imgur.com/oNXHwOX.gifv)"></a>
 </p>
 
 <!--
