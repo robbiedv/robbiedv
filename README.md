@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href = "[Imgur](https://i.imgur.com/oNXHwOX.gifv)"></a>
+ <a href = "https://i.imgur.com/oNXHwOX.gifv"></a>
 </p>
 
 <!--
@@ -9,4 +9,4 @@
 Here are some ideas to get you started:
 
 -->
-<a href = "https://www.freecodecamp.org/robbie.dv"><img height="30" src="https://avatars3.githubusercontent.com/u/9892522?s=280&v=4"></a> I'm always learning at freeCodeCamp.
+<a href = "https://www.freecodecamp.org/robbie.dv"><img height="24" src="https://avatars3.githubusercontent.com/u/9892522?s=280&v=4"></a> I'm always learning at freeCodeCamp.
