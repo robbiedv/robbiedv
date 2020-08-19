@@ -1,5 +1,5 @@
 
-[![robbie dv banner](https://github.com/robbiedv/robbiedv/blob/master/media/waves.gif)](https://robbiedv.github.io/) -->
+[![robbie dv banner](https://github.com/robbiedv/robbiedv/blob/master/media/waves.gif)](https://robbiedv.github.io/)
 
 
 [![freeCodeCamp](https://github.com/robbiedv/robbiedv/blob/master/media/freecodecampNew.png)](https://www.freecodecamp.org/robbie.dv)\
