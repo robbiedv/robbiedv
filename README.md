@@ -1,7 +1,11 @@
+![](https://i.imgur.com/CiiuFFT.png)
+# R O B B I E
+# D E V R I E S
 
-[![robbie dv banner](https://github.com/robbiedv/robbiedv/blob/master/media/waves.gif)](https://robbiedv.github.io/)
+### DEVELOPER / AWS / SECURITY
+---
+I offer a hard working, problem solving attitude and the ability to learn new tech quickly. My goal within a team is to bring as much value as possible, while staying humble and maintaining a learning mindset
 
-
-[![freeCodeCamp](https://github.com/robbiedv/robbiedv/blob/master/media/freecodecampNew.png)](https://www.freecodecamp.org/robbie.dv)\
-[![CodePen](https://github.com/robbiedv/robbiedv/blob/master/media/codepenNew.png)](https://codepen.io/robbiedv-the-bashful)\
-[![Linkedin](https://github.com/robbiedv/robbiedv/blob/master/media/linkedinNew.png)](https://linkedin.com/in/robbiecdevries)
+### SKILLS
+---
+**JAVASCRIPT** / **REACT** / **AWS** / **CSS** / **SASS** / **HTML** / **GIT** / **NODE** / **LINUX**
