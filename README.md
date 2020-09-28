@@ -1,2 +1,12 @@
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/robbiedv/robbiedv/edit/master/README.md)
 ## DEVELOPER / AWS / SECURITY
-**JAVASCRIPT** - **REACT** - **AWS** - **CSS** - **SASS** - **HTML** - **GIT** - **NODE** - **LINUX**
+
+### MY CURRENT SKILLSET :computer:
+JavaScript - React - AWS - CSS - SASS - HTML - Git - Node - Linux
+
+### WHAT I'M STUDYING FOR :cloud:
+- AWS Solutions Architect 
+- CompTIA Cloud+ 
+- AZ-900 
+- CCSP 
+
