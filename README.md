@@ -6,7 +6,8 @@
 JavaScript - React - AWS - CSS - SASS - HTML - Git - Node - Linux
 
 ### STUDYING FOR :cloud:
-- AWS Solutions Architect 
+- AWS Solutions Architect Associate 
+- AWS Developer Associate
 - CompTIA Cloud+ 
 - AZ-900 
 - CCSP 
