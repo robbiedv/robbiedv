@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/DAY-SMASHED-blue.svg)](https://shields.io/)
+![Generic badge](https://img.shields.io/badge/DAY-SMASHED-blue.svg)
 
 # DEVELOPER / AWS / SECURITY
 
