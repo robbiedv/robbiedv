@@ -3,7 +3,7 @@
 # DEVELOPER / AWS / SECURITY
 
 ### CURRENT SKILLSET :computer:
-JavaScript - React - AWS - CSS - SASS - HTML - Git - Node - Linux
+JavaScript - React - AWS - CSS - SASS - HTML - Git - Linux
 
 ### STUDYING FOR :cloud:
 - AWS Solutions Architect Associate 
