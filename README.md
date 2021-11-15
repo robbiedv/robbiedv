@@ -1,14 +1,10 @@
 ![Generic badge](https://img.shields.io/badge/DAY-SMASHED-blue.svg)
 
-# DEVELOPER / AWS / SECURITY
+## SOFTWARE DEVELOPER ✝️
 
-### CURRENT SKILLSET :computer:
-JavaScript - React - AWS - CSS - SASS - HTML - Git - Linux
+### Tech I Work With 🖥️
+Next - Node - Linux - PostgreSQL - AWS
 
-### STUDYING FOR :cloud:
-- AWS Solutions Architect Associate 
-- AWS Developer Associate
-- CompTIA Cloud+ 
-- AZ-900 
-- CCSP 
+### Interested In ✔️
+Contributing to decentralized, open source projects
 
