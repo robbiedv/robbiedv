@@ -3,8 +3,10 @@
 ## SOFTWARE DEVELOPER ✝️
 
 ### Tech I Work With 🖥️
-Next - Node - Linux - PostgreSQL - AWS
+NextJS - NodeJS - Linux - PostgreSQL - AWS
 
 ### Interested In ✔️
-Contributing to decentralized, open source projects
+ - Contributing to decentralized, open source projects
+ - Building Federated software solutions
+ - Creating the the Next Economy
 
