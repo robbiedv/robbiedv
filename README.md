@@ -1,5 +1,5 @@
 ## SOFTWARE DEVELOPER
 
 ### Tech I Work With 🖥
-NextJS - TypeScript - NodeJS - Linux - PostgreSQL - AWS
+NextJS - TypeScript - TailwindCSS - NodeJS - Linux - PostgreSQL - AWS - Vercel
 
